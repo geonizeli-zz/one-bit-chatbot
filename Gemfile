@@ -8,7 +8,7 @@ gem 'ffaker'
 gem 'pg'
 gem 'pg_search', '~> 2.0.1'
 gem 'rake'
-gem 'sinatra', '~> 2.0.5'
+gem 'sinatra', '~> 2.2.3'
 gem 'sinatra-activerecord', '~> 2.0.14'
 
 group :development do
