@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-gem 'activerecord', '~> 5.2.2'
+gem 'activerecord', '~> 6.1.7'
 gem 'database_cleaner'
 gem 'factory_bot'
 gem 'ffaker'
